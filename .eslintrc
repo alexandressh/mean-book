@@ -1,0 +1,9 @@
+{
+  "globals": {
+    "angular": 1,
+    "moment": 1,
+    "document": 1,
+    "window": 1,
+    "no-underscore-dangle": 0
+  }
+}
