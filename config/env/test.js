@@ -1,5 +1,5 @@
 module.exports = {
-  db: 'mongodb://alexandressh-mean-3940194:27017/mean-book-test',
+  db: 'mongodb://localhost:27017/mean-book-test',
   sessionSecret: 'Your Application Session Secret',
   viewEngine: 'ejs',
   facebook: {
